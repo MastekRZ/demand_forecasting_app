@@ -6,11 +6,11 @@ In today's retail environment, maintaining optimal inventory across multiple loc
 
 ## Key Features
 
-*   Advanced Demand Forecasting: Leverage machine learning to predict future inventory needs
-*   Historical Analysis: Understand past trends and patterns
-*   Store-wise Insights: Get detailed analysis for each store location
-*   SKU-level Predictions: Granular predictions for each product
-*   Interactive Visualizations: Visual insights for better decision making
+*   **Advanced Demand Forecasting:** Leverage machine learning to predict future inventory needs
+*   **Historical Analysis:** Understand past trends and patterns
+*   **Store-wise Insights:** Get detailed analysis for each store location
+*   **SKU-level Predictions:** Granular predictions for each product
+*   **Interactive Visualizations:** Visual insights for better decision making
 
 ## How it Works
 
