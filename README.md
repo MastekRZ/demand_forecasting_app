@@ -2,6 +2,20 @@
 
 ## Solution Overview
 Our AI-Powered Demand Forecasting application provides a sophisticated, data-driven approach to predicting daily sales at the SKU and store level. By analyzing historical transaction data and applying advanced machine learning techniques, the system generates accurate forecasts.
+
+### Key Features
+  - **Advanced Demand Forecasting**: Leverage machine learning to predict future inventory needs
+  - **Historical Analysis**: Understand past trends and patterns
+  - **Store-wise Insights**: Get detailed analysis for each store location
+  - **SKU-level Predictions**: Granular predictions for each product
+  - **Interactive Visualizations**: Visual insights for better decision making
+    
+### How it Works
+  1. We analyze your historical sales data
+  2. Our ML model learns patterns in your data
+  3. Generate accurate predictions for future demand
+  4. Provide actionable insights for inventory management
+        
 ### Scope
 This application addresses the fundamental challenges of inventory optimization in Retail environments by:
 1. Generating daily sales predictions for individual SKUs at specific Store locations
@@ -23,7 +37,7 @@ This proven scalability ensures the solution can adapt to retail operations of v
 • Reduction in excess inventory and associated carrying costs
 • Decreased markdown losses from overstocking
 • Improved cash flow through optimized inventory investment
-###Operational Excellence
+### Operational Excellence
 • Data-driven purchasing decisions that reduce guesswork
 • More efficient allocation of merchandise across store network
 • Reduced labor costs associated with manual forecasting efforts
@@ -45,5 +59,12 @@ Unlock the full potential of your data: For advanced functionalities and feature
 • Generate Prediction for next 2 weeks
 • Analyze predicted data SKU wise and Store wise.
 • Contact us to tailor a comprehensive solution that addresses your unique needs and goals
+
+## KEY DIFFERENTIATORS
+•	Granular Forecasting: Store-level and SKU-specific daily predictions rather than broad category estimates
+•	Proven Accuracy: Successfully deployed for 5,000 SKUs across 100 stores with demonstrable accuracy
+•	Customizable Framework: Flexible design allows for fine-tuning to address unique business requirements
+•	Comprehensive Data Utilization: Incorporates pricing information, discounts, and other relevant factors to enhance forecast precision
+
 
 
