@@ -2,8 +2,6 @@
 layout: default
 ---
 
-# Demand Forecasting
-
 ## Key Features
 
 *   Advanced Demand Forecasting: Leverage machine learning to predict future inventory needs
