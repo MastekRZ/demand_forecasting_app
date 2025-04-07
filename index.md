@@ -2,6 +2,7 @@
 layout: default
 ---
 
+In today's retail environment, maintaining optimal inventory across multiple locations while balancing customer satisfaction and operational efficiency is increasingly complex. Retailers face the constant challenge of making accurate inventory decisions for thousands of SKUs across numerous stores, with traditional methods failing to account for the multitude of factors affecting demand adequately. 
 
 ## Key Features
 
@@ -58,7 +59,7 @@ The application has demonstrated success at an enterprise scale, effectively han
 ## Product Availability
 
 *   Consistent availability of desired items, reducing frustration from stockouts
-*   Balanced inventory across locations, improving shopping experience regardless of the store visited
+*   Balanced inventory across locations, improving the shopping experience regardless of the store visited
 *   Appropriate stock levels of seasonal and trending items when demand peaks
 
 ## Note:
@@ -69,8 +70,8 @@ Unlock the full potential of your data: For advanced functionalities and feature
 
 1.  Install our application and start analyzing data
 2.  View the Sample Historical Data and Trend Analysis
-3.  Generate Prediction for next 2 weeks
-4.  Analyze predicted data SKU wise and Store wise.
+3.  Generate a Prediction for the next 2 weeks
+4.  Analyze predicted data SKU-wise and store-wise.
 5.  Contact us to tailor a comprehensive solution that addresses your unique needs and goals (Raman.Awal@mastek.com, Anjali.Sohoni@mastek.com, Niranjan.Namjoshi@mastek.com)
 
 # KEY DIFFERENTIATORS
