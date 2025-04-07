@@ -2,122 +2,79 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# Key Features
 
-[Link to another page](./another-page.html).
+*   Advanced Demand Forecasting: Leverage machine learning to predict future inventory needs
+*   Historical Analysis: Understand past trends and patterns
+*   Store-wise Insights: Get detailed analysis for each store location
+*   SKU-level Predictions: Granular predictions for each product
+*   Interactive Visualizations: Visual insights for better decision making
 
-There should be whitespace between paragraphs.
+# How it Works
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+1.  We analyze your historical sales data
+2.  Our ML model learns patterns in your data
+3.  Generate accurate predictions for future demand
+4.  Provide actionable insights for inventory management
 
-# Header 1
+# Scope
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+This application addresses the fundamental challenges of inventory optimization in Retail environments by:
+1.  Generating daily sales predictions for individual SKUs at specific Store locations
+2.  Processing and analyzing transaction-level data to identify patterns, trends, and anomalies
+3.  Providing actionable forecasts that directly inform purchasing and distribution decisions
+4.  Adapting to shifting consumer behaviors through continuous learning algorithms. The solution moves beyond traditional forecasting methods by applying advanced machine learning techniques to transaction-level data, creating a great understanding of demand patterns unique to each product and location.
 
-## Header 2
+# Scale
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+The application has demonstrated success at an enterprise scale, effectively handling:
+1.  Forecasting for 5,000 unique SKUs across 100 retail locations simultaneously
+2.  Processing 12 months of historical transaction data to establish baseline patterns
+3.  Analyzing multiple data points per transaction (date, store information, SKU details, pricing data)
+4.  Delivering daily-level forecasts that account for seasonality and other temporal patterns
+5.  Supporting retailers with diverse product categories and store formats. This proven scalability ensures the solution can adapt to retail operations of varying sizes, from specialty retailers to large department store chains.
 
-### Header 3
+# Value to Business
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+## Financial Optimization
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+*   Reduction in excess inventory and associated carrying costs
+*   Decreased markdown losses from overstocking
+*   Improved cash flow through optimized inventory investment
 
-#### Header 4
+## Operational Excellence
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+*   Data-driven purchasing decisions that reduce guesswork
+*   More efficient allocation of merchandise across the store network
+*   Reduced labor costs associated with manual forecasting efforts
 
-##### Header 5
+## Risk Mitigation
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+*   Reduced exposure to inventory obsolescence
+*   More resilient supply chain through improved planning
+*   Decreased vulnerability to market fluctuations
 
-###### Header 6
+## Product Availability
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+*   Consistent availability of desired items, reducing frustration from stockouts
+*   Balanced inventory across locations, improving shopping experience regardless of the store visited
+*   Appropriate stock levels of seasonal and trending items when demand peaks
 
-### There's a horizontal rule below this.
+## Note:
 
+Unlock the full potential of your data: For advanced functionalities and features tailored to your unique needs, contact us to explore customized solutions that can take your data analysis to the next level.
+
+## Expected Workflow:
+
+1.  Install our application and start analyzing data
+2.  View the Sample Historical Data and Trend Analysis
+3.  Generate Prediction for next 2 weeks
+4.  Analyze predicted data SKU wise and Store wise.
+5.  Contact us to tailor a comprehensive solution that addresses your unique needs and goals (Raman.Awal@mastek.com, Anjali.Sohoni@mastek.com, Niranjan.Namjoshi@mastek.com)
+
+# KEY DIFFERENTIATORS
 * * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+1.  Granular Forecasting: Store-level and SKU-specific daily predictions rather than broad category estimates
+2.  Proven Accuracy: Successfully deployed for 5,000 SKUs across 100 stores with demonstrable accuracy
+3.  Customizable Framework: Flexible design allows for fine-tuning to address unique business requirements
+4.  Comprehensive Data Utilization: Incorporates pricing information, discounts, and other relevant factors to enhance forecast precision
