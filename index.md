@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Key Features
+## Key Features
 
 *   Advanced Demand Forecasting: Leverage machine learning to predict future inventory needs
 *   Historical Analysis: Understand past trends and patterns
@@ -10,14 +10,14 @@ layout: default
 *   SKU-level Predictions: Granular predictions for each product
 *   Interactive Visualizations: Visual insights for better decision making
 
-# How it Works
+## How it Works
 
 1.  We analyze your historical sales data
 2.  Our ML model learns patterns in your data
 3.  Generate accurate predictions for future demand
 4.  Provide actionable insights for inventory management
 
-# Scope
+## Scope
 
 This application addresses the fundamental challenges of inventory optimization in Retail environments by:
 1.  Generating daily sales predictions for individual SKUs at specific Store locations
@@ -25,7 +25,7 @@ This application addresses the fundamental challenges of inventory optimization 
 3.  Providing actionable forecasts that directly inform purchasing and distribution decisions
 4.  Adapting to shifting consumer behaviors through continuous learning algorithms. The solution moves beyond traditional forecasting methods by applying advanced machine learning techniques to transaction-level data, creating a great understanding of demand patterns unique to each product and location.
 
-# Scale
+## Scale
 
 The application has demonstrated success at an enterprise scale, effectively handling:
 1.  Forecasting for 5,000 unique SKUs across 100 retail locations simultaneously
