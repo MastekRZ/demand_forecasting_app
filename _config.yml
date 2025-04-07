@@ -1,5 +1,5 @@
-title: Cayman theme
-description: Cayman is a clean, responsive theme for GitHub Pages.
-show_downloads: true
+title: Demand Forecasting
+description: Our AI-Powered Demand Forecasting application provides a sophisticated, data-driven approach to predicting daily sales at the SKU and store level. By analyzing historical transaction data and applying advanced machine learning techniques, the system generates accurate forecasts.
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-cayman
