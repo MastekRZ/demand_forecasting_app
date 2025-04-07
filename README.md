@@ -1,3 +1,1 @@
-<<<<<<< HEAD
 # Demand Forecasting
->>>>>>> master
