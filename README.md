@@ -54,17 +54,17 @@ This proven scalability ensures the solution can adapt to retail operations of v
 Unlock the full potential of your data: For advanced functionalities and features tailored to your unique needs, contact us to explore customized solutions that can take your data analysis to the next level.
 
 ### Expected Workflow:
-• Install our application and start analyzing data
-• View the Sample Historical Data and Trend Analysis
-• Generate Prediction for next 2 weeks
-• Analyze predicted data SKU wise and Store wise.
-• Contact us to tailor a comprehensive solution that addresses your unique needs and goals
+1. Install our application and start analyzing data
+2. View the Sample Historical Data and Trend Analysis
+3. Generate Prediction for next 2 weeks
+4. Analyze predicted data SKU wise and Store wise.
+5. Contact us to tailor a comprehensive solution that addresses your unique needs and goals (Raman.Awal@mastek.com, Anjali.Sohoni@mastek.com, Niranjan.Namjoshi@mastek.com)
 
 ## KEY DIFFERENTIATORS
-•	Granular Forecasting: Store-level and SKU-specific daily predictions rather than broad category estimates
-•	Proven Accuracy: Successfully deployed for 5,000 SKUs across 100 stores with demonstrable accuracy
-•	Customizable Framework: Flexible design allows for fine-tuning to address unique business requirements
-•	Comprehensive Data Utilization: Incorporates pricing information, discounts, and other relevant factors to enhance forecast precision
+1. Granular Forecasting: Store-level and SKU-specific daily predictions rather than broad category estimates
+2. Proven Accuracy: Successfully deployed for 5,000 SKUs across 100 stores with demonstrable accuracy
+3. Customizable Framework: Flexible design allows for fine-tuning to address unique business requirements
+4. Comprehensive Data Utilization: Incorporates pricing information, discounts, and other relevant factors to enhance forecast precision
 
 
 
